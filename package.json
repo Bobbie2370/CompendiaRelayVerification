@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/Bobbie2370/CompendiaRelayVerification.git"
   },
+  "dependencies": {
+    "express": "4.17.1",
+    "got": "11.5.2"
+  },
   "author": "TheBobbieBunch",
   "license": "ISC",
   "bugs": {
