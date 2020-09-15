@@ -1,0 +1,19 @@
+{
+  "name": "compendia_relay_verification",
+  "version": "1.0.0",
+  "description": "Verify your relay node(s)",
+  "main": "verify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobbie2370/CompendiaRelayVerification.git"
+  },
+  "author": "TheBobbieBunch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobbie2370/CompendiaRelayVerification/issues"
+  },
+  "homepage": "https://github.com/Bobbie2370/CompendiaRelayVerification#readme"
+}
